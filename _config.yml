@@ -5,13 +5,13 @@
 baseurl: "edercervantes.github.io"
 url: http://yoursite.com
 title: Eder Cervantes
-email: edercervantes@gmail.com
+email: eder.cervantesalcala@gmail.com
 author: Eder Cervantes
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+copyright: 'Copyright &copy; 2015 Eder Cervantes. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -28,8 +28,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/EderCervantes17
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/edercervantes
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/eder-cervantes-alcala/
