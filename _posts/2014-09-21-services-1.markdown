@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Professional<br>Resume
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+   My [Resume](https://drive.google.com/open?id=1ktZhQp8SAG4m6S6qcjn1m-OfOasWW6aO) provides some of my professional qualifications, but I am more than a piece of paper. Please feel free to ask more questions if you feel inclined.
