@@ -2,9 +2,9 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Personal Interests
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  I love hiking, working out at the gym, and learning new languages for fun.
+  I am currently learning French. 
+  Check out some of the [National Parks](https://www.dropbox.com/sh/fhhmdooicgaxaob/AAD_-dnNCAG2Og3oF0iDdMtfa?dl=0) I've visited!
