@@ -5,7 +5,7 @@ category: Services
 title: Personal Interests
 description: |
 ---
-  On the left you can see a picture of my two dogs.
+  On the left you can see a picture of my two dogs.<br>
   I love hiking, working out at the gym, and learning new languages for fun.
   I am currently learning French. (J'etudie le Francais.)
   Check out some of the [National Parks](https://www.dropbox.com/sh/fhhmdooicgaxaob/AAD_-dnNCAG2Og3oF0iDdMtfa?dl=0) I've visited!
