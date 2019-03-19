@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: gmail_logo.jpg
 category: Services
 title: Inquiries
 description: |
