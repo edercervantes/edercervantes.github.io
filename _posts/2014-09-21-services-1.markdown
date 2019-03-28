@@ -5,4 +5,4 @@ category: Services
 title: Professional<br>Resume
 description: |
 ---
-   My [Resume](https://drive.google.com/open?id=1ktZhQp8SAG4m6S6qcjn1m-OfOasWW6aO) provides some of my professional qualifications, but I am more than a piece of paper. Please feel free to ask more questions if you feel inclined.
+   My [Resume](https://drive.google.com/file/d/1ULMn4vWJF3AgpOYBsxxiLBezmqRs2Qpm/view?usp=sharing) provides some of my professional qualifications, but I am more than a piece of paper. Please feel free to ask more questions if you feel inclined.
